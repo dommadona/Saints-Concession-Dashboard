@@ -26,11 +26,12 @@ The dashboard includes:
 
 ## 📁 Files
 
-| File                    | Description                          |
-|-------------------------|--------------------------------------|
-| Saints_Dashboard.png    | Exported visual of dashboard         |
-| Saints_Dashboard.pbix   | Power BI file (optional upload)      |
-| Saints Raw Data.xlsx    | Cleaned data source (optional upload)|
+| File                             | Description                          |
+|----------------------------------|--------------------------------------|
+| Saints_Dashboard.png             | Exported visual of dashboard         |
+| Saints_Dashboard.pbix            | Power BI file                        |
+| Saints Concessions Pricing.csv   | Cleaned data source                  |
+| Saints Win Ratio.xlsx            | Cleaned data source                  |
 
 ---
 
