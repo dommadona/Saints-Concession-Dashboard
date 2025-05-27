@@ -16,7 +16,7 @@ The dashboard includes:
 
 ## 📷 Screenshot
 
-![Saints Dashboard](New Orleans Saints Concessions vs Performance Dashboard.png)
+![Saints Dashboard](New%20Orleans%20Saints%20Concessions%20vs%20Performance%20Dashboard.png)
 
 ## 🛠 Tools Used
 
